@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanindrjaya
-- 👀 I’m interested in Website Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on any Web Project
 - 📫 How to reach me sryan062@gmail.com
